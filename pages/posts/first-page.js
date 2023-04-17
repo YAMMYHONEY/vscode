@@ -9,6 +9,9 @@ export default function FirstPage() {
           <h2>I like my university. Thank you.</h2>
           <h3>☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆☆★☆★☆★☆★☆★☆★☆★</h3>
             <Link href="/">Back to home</Link> //GO TO "/"(MAIN PAGE)
+            <div>
+                <a href="/script.html">제발 공부좀 해라 박상원</a>
+            </div>
         </div>
     )
 }
