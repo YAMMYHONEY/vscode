@@ -10,7 +10,7 @@ export default function FirstPage() {
           <h3>☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆☆★☆★☆★☆★☆★☆★☆★</h3>
             <Link href="/">Back to home</Link> //GO TO "/"(MAIN PAGE)
             <div>
-                <a href="/script.html">제발 공부좀 해라 박상원</a>
+                <a href="/script.html">2023018940 박상원입니다</a>
             </div>
         </div>
     )
